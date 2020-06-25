@@ -7,4 +7,4 @@
       visual mode.
 
 ### Selection Split
-- Split the selection with a search.
+- [ ] Split the selection with a search.
